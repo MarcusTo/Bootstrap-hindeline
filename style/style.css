@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.carousel-item img{
+    height: 75vh;
+    object-fit: cover;
+}
+.container{
+    text-align: center;
+}
